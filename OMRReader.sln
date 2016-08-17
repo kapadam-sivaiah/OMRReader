@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OMRManagement", "OMRManagement\OMRManagement.csproj", "{F86041A1-96D2-403D-9020-587BD1784607}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OMRManagement.DAL", "OMRManagement.DAL\OMRManagement.DAL.csproj", "{EC68459A-0E3F-4287-95D5-1A0E73330959}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OMRManagement.Entities", "OMRManagement.Entities\OMRManagement.Entities.csproj", "{4548D443-1BC3-4A6A-A7A2-6B037CF8AFD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OMRReader.BL", "OMRReader.BL\OMRReader.BL.csproj", "{CC47C328-C7B7-4F70-84F7-7D15C21D70C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OMRConsoleReader", "OMRConsoleReader\OMRConsoleReader.csproj", "{23AD2EB0-7649-4E63-90CE-D7EC64721094}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F86041A1-96D2-403D-9020-587BD1784607}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F86041A1-96D2-403D-9020-587BD1784607}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F86041A1-96D2-403D-9020-587BD1784607}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F86041A1-96D2-403D-9020-587BD1784607}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC68459A-0E3F-4287-95D5-1A0E73330959}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC68459A-0E3F-4287-95D5-1A0E73330959}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC68459A-0E3F-4287-95D5-1A0E73330959}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC68459A-0E3F-4287-95D5-1A0E73330959}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4548D443-1BC3-4A6A-A7A2-6B037CF8AFD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4548D443-1BC3-4A6A-A7A2-6B037CF8AFD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4548D443-1BC3-4A6A-A7A2-6B037CF8AFD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4548D443-1BC3-4A6A-A7A2-6B037CF8AFD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC47C328-C7B7-4F70-84F7-7D15C21D70C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC47C328-C7B7-4F70-84F7-7D15C21D70C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC47C328-C7B7-4F70-84F7-7D15C21D70C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC47C328-C7B7-4F70-84F7-7D15C21D70C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23AD2EB0-7649-4E63-90CE-D7EC64721094}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23AD2EB0-7649-4E63-90CE-D7EC64721094}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23AD2EB0-7649-4E63-90CE-D7EC64721094}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23AD2EB0-7649-4E63-90CE-D7EC64721094}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

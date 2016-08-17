@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="OMRManagement.ControlMoverOrResizer">
+    <Position X="2.25" Y="2.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="OMRManagement.ControlMoverOrResizer.MoveOrResize" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ControlMoverOrResizer.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>ACAEAAAQAQACAAEASAAAAQQAAQBAQAAAAAACFGAIAAI=</HashCode>
+      <FileName>ControlMoverOrResizer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OMRManagement.ExtBitmap">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAACAAAAAAAAAACAAAUAAAgAAAAAAAIAAA=</HashCode>
+      <FileName>ExtBitmap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OMRManagement.Home">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>BICAAgkAACAAEAEACGC2AAMCiABBAECAAAAAAwBAAAA=</HashCode>
+      <FileName>Home.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OMRManagement.Matrix">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AgAAgAEAAAgAkAAAAAgAAEAAAAAAAAAAAAIgCAAAAAQ=</HashCode>
+      <FileName>Matrix.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OMRManagement.OMRTemplateManager">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <Members>
+      <Method Name="AddTaskDetails" Hidden="true" />
+      <Method Name="ApplyFilter" Hidden="true" />
+      <Method Name="AssignFrontPageMapping" Hidden="true" />
+      <Method Name="BaseFolderGrid_CellFormatting" Hidden="true" />
+      <Method Name="BindJobGrid" Hidden="true" />
+      <Method Name="btnAdd_Click" Hidden="true" />
+      <Method Name="btnBrowsDirectory_Click" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>85eFORZ8iWZCZjaSLBWNaak+E8C7jHuO0n7kQafLtSI=</HashCode>
+      <FileName>OMRTemplateManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OMRManagement.Program">
+    <Position X="4" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OMRManagement.Project">
+    <Position X="6.5" Y="5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAACAAADAAAACAAAAGQAABAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>Project.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OMRManagement.Reprocess">
+    <Position X="8.25" Y="1.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AkAIAAAAACAAAAAABACAQAACAAAAAABIAAAAAAAQAAA=</HashCode>
+      <FileName>Reprocess.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OMRManagement.Properties.Resources">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>CAACAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OMRManagement.Properties.Settings">
+    <Position X="2.25" Y="4.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Forms.Form" Collapsed="true">
+    <Position X="11.25" Y="5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Object" Collapsed="true">
+    <Position X="11.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

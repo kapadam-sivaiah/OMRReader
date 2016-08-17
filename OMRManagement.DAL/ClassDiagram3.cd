@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="OMRManagement.DAL.Connection">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAABBAAQAAAABAACAAAAAAAQA=</HashCode>
+      <FileName>Connection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OMRManagement.DAL.FieldsDAL">
+    <Position X="4.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FieldsDAL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OMRManagement.DAL.JobDAL">
+    <Position X="2.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAADAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>JobDAL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OMRManagement.DAL.ProjectDAL">
+    <Position X="2.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ProjectDAL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OMRManagement.DAL.SheetValuesDAL">
+    <Position X="6.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEIAAAAAAAAAAIAAAAAAAAAAAAABAAECAgAEAAAIAAA=</HashCode>
+      <FileName>SheetValuesDAL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OMRManagement.DAL.TemplateDAL">
+    <Position X="4.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAABAEAAAAAAAAEAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>TemplateDAL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OMRManagement.DAL.Utility">
+    <Position X="6.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAgEAgAAIAABEAAAgAIAAAAAAAAAAAABAAAAAAAAAI=</HashCode>
+      <FileName>Utility.DAL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Object" Collapsed="true">
+    <Position X="4.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
